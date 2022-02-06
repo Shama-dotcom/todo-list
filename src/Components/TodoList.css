@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(4, 182, 206);
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.main-list {
+  border-radius: 12px 15px;
+  margin: 20px;
+  background: rgb(206, 224, 224);
+
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  margin: 50px;
+}
